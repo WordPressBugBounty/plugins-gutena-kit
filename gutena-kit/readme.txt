@@ -2,7 +2,7 @@
 Contributors: expresstech
 Tags: blocks, gutenberg, page builder, wordpress blocks, Full site editing
 Requires at least: 6.5
-Tested up to: 6.5
+Tested up to: 6.9
 Requires PHP: 5.6
 Stable tag: 2.0.7
 License: GPLv3
