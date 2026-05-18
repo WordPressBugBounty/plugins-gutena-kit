@@ -4,7 +4,7 @@ Tags: blocks, gutenberg, page builder, wordpress blocks, Full site editing
 Requires at least: 6.5
 Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 2.0.7
+Stable tag: 2.0.8
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -89,6 +89,9 @@ If you like this plugin, consider exploring our other themes and plugins:
 Thanks to merlinwp, we have used code from [merlinwp](https://github.com/richtabor/MerlinWP) for demo import.
 
 == Changelog ==
+
+= 2.0.8 | 18th May 2026 =
+* Fixed: A vulnerability reported by Patchstack
 
 = 2.0.7 | 29th April 2024 =
 * Fixed: Php notices
